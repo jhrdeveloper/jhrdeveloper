@@ -38,7 +38,7 @@
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/-Netlify-588b9d.svg?logo=netlify&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### Software and Tools
 <p>
     <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VS Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
