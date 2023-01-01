@@ -15,7 +15,7 @@
 ## About me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=200&duration=2500&pause=1500&color=1F9EB2&width=435&lines=Hi%2C+I%E2%80%99m+Julio+Honorio;I%E2%80%99m+self-taught+programming+student.;I%E2%80%99m+learning+many+programming+languages.)](https://git.io/typing-svg)
 
-## My Tools
+## My tools
 
 ### Programming Languages
 <p>
